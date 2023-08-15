@@ -1,0 +1,43 @@
+.main {
+    font-family:monospace;
+    background-color:rgb(226, 217, 217);
+}
+.contactInfo {
+    text-align:center;
+}
+.title {
+ text-align:center;
+}
+.education {
+    text-align:left;
+}
+.table {
+    background-color:black;
+}
+.line1 {
+    background-color:lightgrey;
+}
+.line2 {
+    background-color:rgb(226, 217, 217);
+}
+.projectCourse {
+ float:right;
+}
+.workInfo {
+ float:right;
+}
+.languages {
+ text-align:center;
+}
+.computerPic {
+    width: 300px;
+    height: 300px;
+    display:flex;
+    float:right;
+}
+.faulogo {
+    text-align:center;
+}
+.computerpic {
+    text-align:right;
+}
